@@ -1,0 +1,19 @@
+Create a form for check register
+
+Form name : Dishourned Check
+
+Form Fields are :
+
+Check No:
+Date :
+Check Issues To:
+Amount Of Check:
+Date Of Deposit:
+Amount of Deposit:
+Bank:
+Branch:
+
+
+Functionality needs to implement :
+
+Insert, update and delete need to complete
